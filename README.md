@@ -86,7 +86,7 @@ I'm a self-taught cybersecurity student focused on offensive security — workin
 
 <div align="center">
 
-[![TryHackMe Badge](https://assets.tryhackme.com/img/badges/blue.png)](https://tryhackme.com/p/OliverSec)
+[![TryHackMe Badge](https://assets.tryhackme.com/room-badges/705976d7f48a44b8f24dfd4d2efb39ea.png)](https://tryhackme.com/p/OliverSec)
 
 </div>
 
