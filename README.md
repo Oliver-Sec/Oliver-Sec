@@ -1,16 +1,24 @@
-## Hi there 👋
+# ⚡ Hello, I'm Oliver-Sec
 
-<!--
-**Oliver-Sec/Oliver-Sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Cybersecurity Student & Future Penetration Tester
+I am a 14-year-old student at **Vandyke Upper School** (Year 9) with a passion for offensive security, network exploitation, and AI security research. I'm currently building a high-performance lab and mastering the art of the breach.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 My Lab Setup
+- **Hardware:** 24-Core CPU | 40GB DDR4 RAM
+- **OS:** Windows 11 (Host) | Linux Mint (Main Lab)
+- **Primary Focus:** Junior Penetration Tester Path & Python Automation
+
+### 🛠️ Tech Stack & Skills
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Networking](https://img.shields.io/badge/-Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white)
+
+### 📈 GitHub Stats
+![Oliver's Stats](https://github-readme-stats.vercel.app/api?username=Oliver-Sec&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver-Sec&layout=compact&theme=tokyonight)
+
+---
+*“In cybersecurity, the only thing that matters is the code you write and the systems you secure.”*
