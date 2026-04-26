@@ -6,7 +6,7 @@ I am a 14-year-old student at **Vandyke Upper School** (Year 9) with a passion f
 ---
 
 ### 💻 My Lab Setup
-- **Hardware:** 24-Core CPU | 40GB DDR4 RAM
+- **Hardware:** 24-Core CPU | 40GB DDR5 RAM
 - **OS:** Windows 11 (Host) | Linux Mint (Main Lab)
 - **Primary Focus:** Junior Penetration Tester Path & Python Automation
 
